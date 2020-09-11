@@ -1,4 +1,4 @@
 # comoposer 测试
-composer test preview!!! a2
+composer github 同步测试!!!
 
 
