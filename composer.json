@@ -1,11 +1,9 @@
 {
     "name": "lisoalone/demo1",
-    "description": "a test composer project",
-    "type": "project",
-    "license": "MIT",
+    "description": "review composer test",
     "authors": [
         {
-            "name": "李 来",
+            "name": "Lisoalone",
             "email": "1621609997@qq.com"
         }
     ],
